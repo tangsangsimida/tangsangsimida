@@ -1,10 +1,10 @@
-# 嵌入式工程师
+# Embedded Systems Engineer
 
-## 关于我
-- 🛠 专注于嵌入式开发
-- 🎯 擅长MCU开发、RTOS、低功耗设计、嵌入式Linux等
-- 🔧 熟练掌握C/C++、Python，熟悉ARM架构、STM32、ESP32等平台
-- 📡 在物联网、智能硬件等领域有丰富项目经验
+## About Me
+- 🛠 Focused on embedded systems development  
+- 🎯 Proficient in MCU development, RTOS, low-power design, and embedded Linux  
+- 🔧 Skilled in C/C++ and Python; experienced with ARM architecture and platforms such as STM32 and ESP32  
+- 📡 Extensive project experience in IoT and smart hardware domains  
 
-## 联系方式
-- 邮箱：dennisreyoonjiho@gmail.com
+## Contact
+- Email: dennisreyoonjiho@gmail.com
