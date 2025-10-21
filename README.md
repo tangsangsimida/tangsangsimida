@@ -6,5 +6,9 @@
 - 🔧 Skilled in C/C++ and Python; experienced with ARM architecture and platforms such as STM32 and ESP32  
 - 📡 Extensive project experience in IoT and smart hardware domains  
 
+
+![tangsangsimida's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangsangsimida&show_icons=true&theme=radical)
+
+
 ## Contact
 - Email: dennisreyoonjiho@gmail.com
