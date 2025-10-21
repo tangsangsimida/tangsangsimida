@@ -18,8 +18,7 @@ I build efficient, low-power, and highly reliable embedded systems — from bare
 
 ## 📊 GitHub Stats
 
-[![tangsangsimida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tangsangsimida&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangsangsimida&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tangsangsimida&theme=gotham&count_private=true) ![tangsangsimida GitHub stats](https://github-readme-stats.vercel.app/api?username=tangsangsimida&show_icons=true&theme=gotham&count_private=true)
 
 ---
 
