@@ -7,7 +7,7 @@
 - 📡 Extensive project experience in IoT and smart hardware domains  
 
 
-![tangsangsimida's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangsangsimida&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangsangsimida&layout=compact)
+![tangsangsimida's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangsangsimida&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangsangsimida&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact
