@@ -1,28 +1,28 @@
-# 👋 Hi, I'm DennisReYoonjiho
+# Hi, I'm DennisReYoonjiho
 
-### 🔧 Embedded Systems Engineer | Firmware Developer | IoT Enthusiast
+### Embedded Systems Engineer | Firmware Developer | IoT Enthusiast
 
 I build efficient, low-power, and highly reliable embedded systems — from bare-metal firmware to hardware integration. Passionate about microcontrollers, communication protocols, RTOS, and real-world smart solutions.
 
 ---
 
-## 🛠 About Me
+## About Me
 
-- 🎯 Specialized in **embedded development**: RTOS, hardware drivers, serial communication (UART, SPI, I2C), and power optimization  
-- 💻 Proficient in **C**, **C++**, **Python**, and exploring **Rust** for safety-critical systems  
-- 📡 Hands-on experience with **STM32**, **ESP32**, **ARM Cortex-M**, **FreeRTOS**, **Zephyr**, and **Embedded Linux**  
-- 🌐 Active in **IoT** projects involving sensors, wireless connectivity (Wi-Fi, BLE, LoRa), and cloud integration  
-- 🧪 I value clean code, automated testing, and clear documentation
+- Specialized in **embedded development**: RTOS, hardware drivers, serial communication, and power optimization
+- Proficient in **C**, **C++**, **Python**, and exploring **Rust** for safety-critical systems
+- Hands-on experience with **STM32**, **ESP32**, **ARM Cortex-M**, **FreeRTOS**, and **Embedded Linux**
+- Active in **IoT** projects involving sensors, wireless connectivity (Wi-Fi, BLE, LoRa), and cloud integration
+- I value clean code, automated testing, and clear documentation
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tangsangsimida&theme=gotham&count_private=true) ![tangsangsimida GitHub stats](https://github-readme-stats.vercel.app/api?username=tangsangsimida&show_icons=true&theme=gotham&count_private=true)
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 
@@ -34,15 +34,15 @@ I build efficient, low-power, and highly reliable embedded systems — from bare
 
 ---
 
-## 📬 Contact
+## Contact
 
-- 📧 **Email**: [dennisreyoonjiho@gmail.com](mailto:dennisreyoonjiho@gmail.com)
-- 🐙 **GitHub**: [@tangsangsimida](https://github.com/tangsangsimida)
+- **Email**: [dennisreyoonjiho@gmail.com](mailto:dennisreyoonjiho@gmail.com)
+- **GitHub**: [@tangsangsimida](https://github.com/tangsangsimida)
 
-> 🔧 *I'm always open to collaborations, technical challenges, and great conversations about engineering!*
+> *I'm always open to collaborations, technical challenges, and great conversations about engineering!*
 
 ---
 
-## 🐍 GitHub Contribution Graph (Snake Animation)
+## GitHub Contribution Graph (Snake Animation)
 
 ![snake gif](https://raw.githubusercontent.com/tangsangsimida/tangsangsimida/output/github-contribution-grid-snake.svg)
