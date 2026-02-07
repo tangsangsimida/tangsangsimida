@@ -16,12 +16,6 @@ I build efficient, low-power, and highly reliable embedded systems — from bare
 
 ---
 
-## GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tangsangsimida&theme=gotham&count_private=true) ![tangsangsimida GitHub stats](https://github-readme-stats.vercel.app/api?username=tangsangsimida&show_icons=true&theme=gotham&count_private=true)
-
----
-
 ## Technical Skills
 
 ### Languages
@@ -41,8 +35,3 @@ I build efficient, low-power, and highly reliable embedded systems — from bare
 
 > *I'm always open to collaborations, technical challenges, and great conversations about engineering!*
 
----
-
-## GitHub Contribution Graph (Snake Animation)
-
-![snake gif](https://raw.githubusercontent.com/tangsangsimida/tangsangsimida/output/github-contribution-grid-snake.svg)
